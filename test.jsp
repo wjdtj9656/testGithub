@@ -8,6 +8,7 @@
 
 <body>
     <h1> test.jsp 페이지입니다.</h1>
+    <h2> test.jsp 페이지이랍니다.</h2>
 </body>
 
 </html>
